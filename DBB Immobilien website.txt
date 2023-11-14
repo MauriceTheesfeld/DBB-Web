@@ -1,0 +1,36 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>DBB-Immobilien</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<header>
+   <img src="logo.png" alt="DBB-Immobilien Logo">
+   <h1>Alles rund um Ihre Immobilie</h1>
+</header>
+<main>
+   <div class="feature">
+      <a href="immobilienverwaltung.html">
+         <h2>Immobilienverwaltung</h2>
+         <p>Wir kümmern uns um die professionelle Verwaltung Ihrer Immobilien.</p>
+      </a>
+   </div>
+   <div class="feature">
+      <a href="sanierung.html">
+         <h2>Sanierung</h2>
+         <p>Wir bieten individuelle Sanierungslösungen für Ihre Immobilien.</p>
+      </a>
+   </div>
+</main>
+<footer>
+   <div class="partner">
+      <a href="partner1.html"><img src="partner1.png" alt="Partner 1"></a>
+      <a href="partner2.html"><img src="partner2.png" alt="Partner 2"></a>
+      <a href="partner3.html"><img src="partner3.png" alt="Partner 3"></a>
+   </div>
+</footer>
+</body>
+</html>
+```
